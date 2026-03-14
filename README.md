@@ -1,3 +1,8 @@
+
+<p align="center"><img src="https://haplab.ca/images/huronu.png" height=75px alt="Huron University Crest"/></p>
+</br>
+
+
 # The Huron Musical Speech (HuMS) Corpus
 
 ## About
@@ -49,3 +54,5 @@ There are different packaged version of the HuMS Corpus, which are downloadable 
 
 ## Acknowledgments
 This work was suported by a Social Sciences and Humanities Research Council (SSHRC) Insight Development Grant.
+
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/savkoiwnwqQTRAmioFFypQ5y1eCtuZDbqZvLMIA8hTXn5RRclFABBkHcxa__WevHB8czcQ7gjPAzeAUmbPupu_NM21rKWoDkpgS_IIofPiZmiTB1Y3VqWn2oYK61RjJE" height=50px alt="SSHRC"/></p>
