@@ -39,5 +39,13 @@ where:<br>
 **book** is an arbitrary numeric value to help distinguish different recordings that might have the same audience, sex, and language<br>
 **chapter** denotes the chapter from which the excerpt was taken<br>
 
+### Versions
+There are different packaged version of the HuMS Corpus, which are downloadable as releases. Feel free to download whichever version best suits your needs!
+
+1. **HuMS-Full**: This is the full set of 4,834 recordings, associated spectrograms, and a data file (.csv) containing the acoustic, linguistic, and perceptual ratings. Perceptual ratings come from the internal raters (*n* = 5).
+2. **HuMS-A1**: This contains the 20 most and least musical recordings (as judged by the internal raters) for each speaker sex (female, male) and intended audience (adults, children). Thus, the HuMS-A1 contains 160 total recordings. These 160 recordings were additionally rated by a larger group of naive listeners (*n* = 100), whose ratings are also included in the associated data file.
+
+More versions are currently in preparation.
+
 ## Acknowledgments
 This work was suported by a Social Sciences and Humanities Research Council (SSHRC) Insight Development Grant.
