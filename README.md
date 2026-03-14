@@ -44,7 +44,7 @@ where:<br>
 **book** is an arbitrary numeric value to help distinguish different recordings that might have the same audience, sex, and language<br>
 **chapter** denotes the chapter from which the excerpt was taken<br>
 
-### Versions
+## Versions
 There are different packaged version of the HuMS Corpus, which are downloadable as releases. Feel free to download whichever version best suits your needs!
 
 1. **HuMS-Full**: This is the full set of 4,834 recordings, associated spectrograms, and a data file (.csv) containing the acoustic, linguistic, and perceptual ratings. Perceptual ratings come from the internal raters (*n* = 5).
