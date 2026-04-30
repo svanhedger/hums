@@ -1,3 +1,8 @@
+
+<p align="center"><img src="https://haplab.ca/images/huronu.png" height=75px alt="Huron University Crest"/></p>
+</br>
+
+
 # The Huron Musical Speech (HuMS) Corpus
 
 ## About
@@ -39,5 +44,15 @@ where:<br>
 **book** is an arbitrary numeric value to help distinguish different recordings that might have the same audience, sex, and language<br>
 **chapter** denotes the chapter from which the excerpt was taken<br>
 
+## Versions
+There are different packaged version of the HuMS Corpus, which are downloadable as releases. Feel free to download whichever version best suits your needs!
+
+1. **HuMS-Full**: This is the full set of 4,834 recordings, associated spectrograms, and a data file (.csv) containing the acoustic, linguistic, and perceptual ratings. Perceptual ratings come from the internal raters (*n* = 5).
+2. **HuMS-A1**: This contains the 20 most and least musical recordings (as judged by the internal raters) for each speaker sex (female, male) and intended audience (adults, children). Thus, the HuMS-A1 contains 160 total recordings. These 160 recordings were additionally rated by a larger group of naive listeners (*n* = 100), whose ratings are also included in the associated data file.
+3. **HuMS-A2**: This contains the 15 most and least musical recordings (as judged by the internal raters) for each represented talker in the corpus (*n* = 14). Thus, the HuMS-A2 contains 420 total recordings. These 420 recordings were additionally rated by a larger group of naive listeners (*n* = 320), whose ratings are also included in the associated data file.
+
+
 ## Acknowledgments
 This work was suported by a Social Sciences and Humanities Research Council (SSHRC) Insight Development Grant.
+
+<p align="center"><img src="https://lh3.googleusercontent.com/proxy/savkoiwnwqQTRAmioFFypQ5y1eCtuZDbqZvLMIA8hTXn5RRclFABBkHcxa__WevHB8czcQ7gjPAzeAUmbPupu_NM21rKWoDkpgS_IIofPiZmiTB1Y3VqWn2oYK61RjJE" height=50px alt="SSHRC"/></p>
